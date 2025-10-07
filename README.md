@@ -51,24 +51,31 @@ dt.predict([[5,6]])
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
 
 ## data.head()
+
 <img width="339" height="258" alt="image" src="https://github.com/user-attachments/assets/54ca542a-5036-4eeb-b67f-5122d60fcb09" />
 
 ## data.info()
+
 <img width="428" height="230" alt="image" src="https://github.com/user-attachments/assets/e7219064-9996-4620-8684-70c165783429" />
 
 ## data.isnull().sum()
+
 <img width="209" height="109" alt="image" src="https://github.com/user-attachments/assets/80a7c035-8620-4883-be29-3a16d98b5edc" />
 
 ## data.head() for salary
+
 <img width="280" height="253" alt="image" src="https://github.com/user-attachments/assets/2087f7f4-f0c5-4639-9b3b-e6061fef658d" />
 
 ## MSE value
+
 <img width="265" height="54" alt="image" src="https://github.com/user-attachments/assets/7470cdab-50fc-4913-a0db-d34807f8922d" />
 
 ## r2 value
+
 <img width="329" height="55" alt="image" src="https://github.com/user-attachments/assets/29fe28eb-ff68-4d64-97bf-6eb4e9fd23fb" />
 
 ## data prediction
+
 <img width="1664" height="98" alt="image" src="https://github.com/user-attachments/assets/93d90af4-f67a-4144-9a54-70b9522f10db" />
 
 
